@@ -9,10 +9,13 @@ KELAS   : TI.20.B1 <br>
 ### Hasil
 ![Hasil1](gambar_latihan/1.jpg)<br>
 
-#### Mengatur atribut Paragraph
-**Penggunaan align Justify dan center**<br>
+### Mengatur atribut Paragraph
+**Penggunaan align Justify dan center**
+
 ![hasil1.2](gambar_latihan/1.1.2.jpg)<br>
+
 **Hasil**<br>
+
 ![hasil1.2](gambar_latihan/1.1.1.jpg)<br>
 
 
