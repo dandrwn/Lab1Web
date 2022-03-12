@@ -20,4 +20,4 @@ KELAS   : TI.20.B1 <br>
         </p>
 ```
 ### Hasil
-![Hasil1](D:\Tugas\lab1Web\gambar latihan\1.jpg)
+![Hasil1](gambar latihan/1.jpg)
