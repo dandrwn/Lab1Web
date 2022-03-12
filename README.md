@@ -12,7 +12,7 @@ KELAS   : TI.20.B1 <br>
 ### Mengatur atribut Paragraph
 **Penggunaan align Justify dan center**
 
-![hasil1.2](gambar_latihan/1.1.2.jpg)<br>
+![hasil1.2](gambar_latihan/1.1.2.jpg)
 
 **Hasil**<br>
 
