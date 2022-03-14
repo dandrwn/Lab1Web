@@ -18,12 +18,12 @@ KELAS   : TI.20.B1
 
 ![hasil2](gambar_latihan/1.1.1.jpg)
 
-**Penjelasan**
-**Paragraf Ke 1 Menggunakan "align="justify"**
+**Penjelasan**<br>
+**Paragraf Ke 1 Menggunakan "align="justify"**<br>
 pada screenshoot yang saya lampirkan memang tidak terlihat perbedaanya dengan
 sebeleumnya karna kegunaan "align="justify" sebernya hanya pengatur agar teks dapat rata kanan dan juga kiri
  
- **Paragraf Ke 2 Menggunakan "align="center"**
+ **Paragraf Ke 2 Menggunakan "align="center"**<br>
  sedangkan center terlihat jelas terdapat perubahan yang dimana paragraf berubah posisi  menjadi di tengah
 
 **Penggunaan align left dan right**
@@ -34,11 +34,11 @@ sebeleumnya karna kegunaan "align="justify" sebernya hanya pengatur agar teks da
 
 ![hasil3](gambar_latihan/1.2.1.jpg)
 
-**Penjelasan**
-**Paragraf Ke 1 Menggunakan "align="left"**
+**Penjelasan**<br>
+**Paragraf Ke 1 Menggunakan "align="left"**<br>
 pada screenshoot yang saya lampirkan memang tidak terlihat perbedaanya dengan
 sebeleumnya karna kegunaan "align="left" sebernya hanya pengatur agar teks berada di Kiri
- **Paragraf Ke 2 Menggunakan "align="right"**
+ **Paragraf Ke 2 Menggunakan "align="right"**<br>
  sedangkan center terlihat jelas terdapat perubahan yang dimana paragraf berubah posisi menjadi di bagian kanan
 
  ## 2. Menambahkan Judul
@@ -47,7 +47,7 @@ sebeleumnya karna kegunaan "align="left" sebernya hanya pengatur agar teks berad
 ## Hasil
 ![Hasil4](gambar_latihan/2.jpg)
 
-**Penjelasan**
+**Penjelasan**<br>
 Dalam Menambahkan Judul kita menggunakan Heading ``` html <h1></h1> <h2></h2> ```
 Pembeda ```html <h1>``` dan ```hrml<h2>`` hanya dari ukurannya saja terlihat jelas dari Screenshoot yang telah saya tampilkan.
 
@@ -57,7 +57,7 @@ Pembeda ```html <h1>``` dan ```hrml<h2>`` hanya dari ukurannya saja terlihat jel
 ## Hasil
 ![hasil5](gambar_latihan/3.jpg)
 
-**Penjelasan**
+**Penjelasan**<br>
 ``` html <i>teks</i> ``` Memiringkan teks (italic) <br>
 ``` html <b>teks</b> ``` Menebalkan teks (bold)<br>
 ``` html <mark></mark> ``` Memberi penanda seperti menggunakan stabilo<br>
@@ -70,7 +70,7 @@ Pembeda ```html <h1>``` dan ```hrml<h2>`` hanya dari ukurannya saja terlihat jel
 ## Hasil
 ![hasil6](gambar_latihan/4.1.jpg)
 
-**Penjelasan**
+**Penjelasan**<br>
 ``` html <img src="D:\Tugas\WEB\tugas 1\gambar bahan\1.png" width="200" height="180" tittle="Logo Universitas Pelita Bangsa"/> ``` <br>
 ``` html src="D:\Tugas\WEB\tugas 1\gambar bahan\1.png"``` memasukan lokasi foto yang  ingin di tampilkan<br>
 ``` html width="200" height="180" ``` Mengatur ukuran pada foto<br>
@@ -84,7 +84,7 @@ Pembeda ```html <h1>``` dan ```hrml<h2>`` hanya dari ukurannya saja terlihat jel
 ![hasil7.1](gambar_latihan/5.1.jpg)
 
 **Penjelasan**
-``` html  <nav>
+``` html <nav>
             <a href="lab1_tag_Halaman2.html">Halaman 2</a>
             <a href="http://www.google.com">Google search</a>
         </nav> 
