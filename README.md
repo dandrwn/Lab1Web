@@ -21,10 +21,10 @@ KELAS   : TI.20.B1 <br>
 **Penjelasan**<br>
 **Paragraf Ke 1 Menggunakan "align="justify"**<br>
 pada screenshoot yang saya lampirkan memang tidak terlihat perbedaanya dengan
-sebeleumnya karna kegunaan "align="justify" sebernya hanya pengatur agar teks dapat rata kanan dan juga kiri
+sebelumnya karna kegunaan "align="justify" sebernya hanya pengatur agar teks dapat rata kanan dan juga kiri<br>
  
  **Paragraf Ke 2 Menggunakan "align="center"**<br>
- sedangkan center terlihat jelas terdapat perubahan yang dimana paragraf berubah posisi  menjadi di tengah
+ sedangkan center terlihat jelas terdapat perubahan yang dimana paragraf berubah posisi  menjadi di tengah <br>
 
 **Penggunaan align left dan right**
 
@@ -37,9 +37,9 @@ sebeleumnya karna kegunaan "align="justify" sebernya hanya pengatur agar teks da
 **Penjelasan**<br>
 **Paragraf Ke 1 Menggunakan "align="left"**<br>
 pada screenshoot yang saya lampirkan memang tidak terlihat perbedaanya dengan
-sebeleumnya karna kegunaan "align="left" sebernya hanya pengatur agar teks berada di Kiri
+sebeleumnya karna kegunaan "align="left" sebernya hanya pengatur agar teks berada di Kiri<br>
  **Paragraf Ke 2 Menggunakan "align="right"**<br>
- sedangkan center terlihat jelas terdapat perubahan yang dimana paragraf berubah posisi menjadi di bagian kanan
+ sedangkan center terlihat jelas terdapat perubahan yang dimana paragraf berubah posisi menjadi di bagian kanan<br>
 
  ## 2. Menambahkan Judul
 ![hasil1.4](gambar_latihan/2.1.jpg)
