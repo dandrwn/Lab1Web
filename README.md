@@ -98,18 +98,18 @@ Pembeda ```html <h1>``` dan ```hrml<h2>`` hanya dari ukurannya saja terlihat jel
 # Jawab Pertanyaan
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag? *Tidak Ada*
-2. Apa perbedaan dari tag ```html<p>``` dengan tag ```html<br>```, berikan penjelasannya!
- ```html<p>```*per paragraf*
- ```html<br>``` *Pindah baris atau Enter*
-3. Apa perbedaan atribut title dan alt pada tag ```html<img>```, berikan penjelasannya!
-*tittle* Hanya Memberi Judul pada Gambar
-*alt* Judul akan tampil jika gambar gagal dimuat
+2. Apa perbedaan dari tag ```html<p>``` dengan tag ```html<br>```, berikan penjelasannya!<br>
+ ```html<p>```*per paragraf* <br>
+ ```html<br>``` *Pindah baris atau Enter*<br>
+3. Apa perbedaan atribut title dan alt pada tag ```html<img>```, berikan penjelasannya!<br>
+*tittle* Hanya Memberi Judul pada Gambar<br>
+*alt* Judul akan tampil jika gambar gagal dimuat<br>
 
-4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
-proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar<br> 
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!<br>
 *Tergantung bentuk gambarnya jika persegi bisa sama jika selain persegi maka harus berbeda dan di sesuaikan* <br>
 *agar tetap proporsional* 
-5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?<br>
 ``` html _self``` : Membuka halaman website di tab ini.
 ``` html _blank``` :Membuka halaman website di tab baru.
 ``` html _parent``` : Membuka halaman website pada parent frame.
