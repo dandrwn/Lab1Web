@@ -1,9 +1,9 @@
 # Tugas pertemuan ke 1
 Repository ini digunakan untuk memenuhi Tugas Lab1Web
 
-Nama    : Dani Darmawan
-NIM     : 312010154
-KELAS   : TI.20.B1 
+Nama    : Dani Darmawan<br>
+NIM     : 312010154<br>
+KELAS   : TI.20.B1 <br>
 ## 1. Membuat Paragraf
 ![hasil1.1](gambar_latihan/1.1.jpg)
 ### Hasil
