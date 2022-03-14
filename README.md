@@ -49,7 +49,7 @@ sebeleumnya karna kegunaan "align="left" sebernya hanya pengatur agar teks berad
 
 **Penjelasan**<br>
 Dalam Menambahkan Judul kita menggunakan Heading ``` html <h1></h1> <h2></h2> ```
-Pembeda ```html <h1>``` dan ```hrml<h2>`` hanya dari ukurannya saja terlihat jelas dari Screenshoot yang telah saya tampilkan.
+Pembeda ```html <h1>``` dan ```html<h2>``` hanya dari ukurannya saja terlihat jelas dari Screenshoot yang telah saya tampilkan.
 
 ## 3. Memformat Teks
 ![hasil1.5](gambar_latihan/3.1.jpg)
