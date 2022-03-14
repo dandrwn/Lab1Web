@@ -110,7 +110,7 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 *Tergantung bentuk gambarnya jika persegi bisa sama jika selain persegi maka harus berbeda dan di sesuaikan* <br>
 *agar tetap proporsional* 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?<br>
-``` html _self``` : Membuka halaman website di tab ini.
-``` html _blank``` :Membuka halaman website di tab baru.
-``` html _parent``` : Membuka halaman website pada parent frame.
-``` html _top``` : Membuka halaman website dan membatalkan semua frame.
+``` html _self``` : Membuka halaman website di tab ini.<br>
+``` html _blank``` :Membuka halaman website di tab baru.<br>
+``` html _parent``` : Membuka halaman website pada parent frame.<br>
+``` html _top``` : Membuka halaman website dan membatalkan semua frame.<br>
