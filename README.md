@@ -38,6 +38,7 @@ sebelumnya karna kegunaan "align="justify" sebernya hanya pengatur agar teks dap
 **Paragraf Ke 1 Menggunakan "align="left"**<br>
 pada screenshoot yang saya lampirkan memang tidak terlihat perbedaanya dengan
 sebeleumnya karna kegunaan "align="left" sebernya hanya pengatur agar teks berada di Kiri<br>
+
  **Paragraf Ke 2 Menggunakan "align="right"**<br>
  sedangkan center terlihat jelas terdapat perubahan yang dimana paragraf berubah posisi menjadi di bagian kanan<br>
 
